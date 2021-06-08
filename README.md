@@ -5,11 +5,15 @@ To run the project, clone the first part and navigate to the folder. Open the co
 
 ![register](https://user-images.githubusercontent.com/71964085/121117101-e3685280-c817-11eb-806d-db8e7101bb35.PNG)
 
+![LOGINFINAL](https://user-images.githubusercontent.com/71964085/121116636-2249d880-c817-11eb-8841-e9c8f45fc64b.PNG)
+
 ![home](https://user-images.githubusercontent.com/71964085/121117132-efecab00-c817-11eb-84c8-fcf069c8f2cc.PNG)
 
+![coursepg](https://user-images.githubusercontent.com/71964085/121117311-380bcd80-c818-11eb-905f-117bce0aeb6d.PNG)
 
-![logedin home](https://user-images.githubusercontent.com/71964085/121116537-01818300-c817-11eb-8119-4b286d9146dd.PNG)
 
 
-![LOGINFINAL](https://user-images.githubusercontent.com/71964085/121116636-2249d880-c817-11eb-8841-e9c8f45fc64b.PNG)
+
+
+
 
